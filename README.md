@@ -2,8 +2,10 @@
 mer e der banco de dados
 
 -- PET SHOP --
-Conceitual
-<img scr="conceitual.png">
 
-Logico
-<img src="logico.png">
+• Conceitual
+
+<img src="conceitual.PNG">
+
+• Logico
+<img src="logico.PNG">
